@@ -1,0 +1,64 @@
+Name: GOOGLE.COM
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Nameservers:
+NS1.GOOGLE.COM
+NS2.GOOGLE.COM
+NS3.GOOGLE.COM
+NS4.GOOGLE.COMDates
+Registry Expiration: 2028-09-14 04:00:00 UTC
+Created: 1997-09-15 04:00:00 UTC
+
+Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Nameservers:
+A.NS.FACEBOOK.COM
+B.NS.FACEBOOK.COM
+C.NS.FACEBOOK.COM
+D.NS.FACEBOOK.COMDates
+Registry Expiration: 2028-03-30 04:00:00 UTC
+Created: 1997-03-29 05:00:00 UTC
+
+Name: DNDBEYOND.COM
+Registry Domain ID: 2095238403_DOMAIN_COM-VRSN
+Domain Status:
+clientTransferProhibited
+clientUpdateProhibited
+Nameservers:
+MAX.NS.CLOUDFLARE.COM
+SARA.NS.CLOUDFLARE.COMDates
+Registry Expiration: 2024-02-03 23:26:02 UTC
+Created: 2017-02-03 23:26:02 UTC
+
+Name: DUMBINGOFAGE.COM
+Registry Domain ID: 1608377347_DOMAIN_COM-VRSN
+Domain Status:
+clientTransferProhibited
+Nameservers:
+NS1.JS335.IOFLOOD.COM
+NS2.JS335.IOFLOOD.COMDates
+Registry Expiration: 2021-07-27 04:17:34 UTC
+Created: 2010-07-27 04:17:34 UTC
+
+Name: QUESTIONABLECONTENT.COM
+Registry Domain ID: 86897191_DOMAIN_COM-VRSN
+Domain Status:
+clientTransferProhibited
+Nameservers:
+NS1.PARKINGCREW.NET
+NS2.PARKINGCREW.NETDates
+Registry Expiration: 2021-05-24 01:13:35 UTC
+Created: 2002-05-24 01:13:35 UTC

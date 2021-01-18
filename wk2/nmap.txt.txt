@@ -1,0 +1,59 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-18 19:49 UTC
+Nmap scan report for google.com (172.217.1.14)
+Host is up (0.0012s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:808::200e
+rDNS record for 172.217.1.14: yyz10s14-in-f14.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 15.32 seconds
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 1000 google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-18 19:51 UTC
+Nmap scan report for google.com (172.217.0.238)
+Host is up (0.0013s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:808::200e
+rDNS record for 172.217.0.238: yyz10s03-in-f14.1e100.net
+
+PORT     STATE    SERVICE
+1000/tcp filtered cadlock
+
+Nmap done: 1 IP address (1 host up) scanned in 11.27 seconds
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 1000-1010 google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-18 19:52 UTC
+Nmap scan report for google.com (172.217.1.174)
+Host is up (0.0015s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:808::200e
+rDNS record for 172.217.1.174: yyz10s04-in-f14.1e100.net
+
+PORT     STATE    SERVICE
+1000/tcp filtered cadlock
+1001/tcp filtered webpush
+1002/tcp filtered windows-icfw
+1003/tcp filtered unknown
+1004/tcp filtered unknown
+1005/tcp filtered unknown
+1006/tcp filtered unknown
+1007/tcp filtered unknown
+1008/tcp filtered ufsd
+1009/tcp filtered unknown
+1010/tcp filtered surf
+
+Nmap done: 1 IP address (1 host up) scanned in 12.48 seconds
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-18 19:53 UTC
+Nmap scan report for google.com (172.217.1.14)
+Host is up (0.0013s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:808::200e
+rDNS record for 172.217.1.14: yyz10s14-in-f14.1e100.net
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 13.08 seconds

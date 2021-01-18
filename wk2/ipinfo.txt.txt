@@ -1,0 +1,9 @@
+reddit.com 151.101.1.140
+
+bb-gbc.blackboard.com 3.97.55.134
+
+digitalocean.com 104.16.182.15
+
+twitter.com 104.244.42.1
+
+twitch.com 52.32.76.121
