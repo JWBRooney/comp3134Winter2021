@@ -1,0 +1,11 @@
+le.rogers.com.50626: Flags [P.], seq 70928540:70928744, ack 40213, win 501, length 204
+20:08:47.142190 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 70928744:70928948, ack 40213, win 501, length 204
+20:08:47.142262 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 70928948:70929152, ack 40213, win 501, length 204
+20:08:47.142344 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 70929152:70929356, ack 40213, win 501, length 204
+20:08:47.142413 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 70929356:70929560, ack 40213, win 501, length 204
+20:08:47.142487 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 70929560:70929764, ack 40213, win 501, length 204
+^C20:08:47.142559 IP 157.185.175.63 > 134.122.43.1: ICMP echo request, id 32540, seq 45136, length 32
+
+348818 packets captured
+348855 packets received by filter
+6 packets dropped by kernel

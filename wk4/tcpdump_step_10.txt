@@ -1,0 +1,14 @@
+com.50626: Flags [P.], seq 3006348:3006552, ack 1549, win 2531, length 204
+20:18:36.985060 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 3006552:3006756, ack 1549, win 2531, length 204
+20:18:36.985142 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 3006756:3006960, ack 1549, win 2531, length 204
+20:18:36.985204 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 3006960:3007164, ack 1549, win 2531, length 204
+20:18:36.985259 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 3007164:3007368, ack 1549, win 2531, length 204
+20:18:36.985317 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 3007368:3007572, ack 1549, win 2531, length 204
+20:18:36.985375 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 3007572:3007776, ack 1549, win 2531, length 204
+20:18:36.985433 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 3007776:3007980, ack 1549, win 2531, length 204
+20:18:36.985489 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 3007980:3008184, ack 1549, win 2531, length 204
+20:18:36.985546 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 3008184:3008388, ack 1549, win 2531, length 204
+^C
+14699 packets captured
+14703 packets received by filter
+0 packets dropped by kernel

@@ -1,0 +1,46 @@
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+20:14:46.252499 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 805050914:805050958, ack 1825985916, win 2509, length 44
+20:14:46.252582 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 44:152, ack 1, win 2509, length 108
+20:14:46.252644 IP 134.122.43.1.ssh > cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626: Flags [P.], seq 152:188, ack 1, win 2509, length 36
+20:14:46.278972 IP cpe5896307f4f64-cm5896307f4f62.cpe.net.cable.rogers.com.50626 > 134.122.43.1.ssh: Flags [.], ack 188, win 511, length 0
+20:14:49.339251 IP 220.242.158.72 > 134.122.43.1: ICMP echo request, id 25024, seq 987, length 32
+20:14:49.339312 IP 134.122.43.1 > 220.242.158.72: ICMP echo reply, id 25024, seq 987, length 32
+20:14:49.339332 IP 220.242.158.72 > 134.122.43.1: ICMP echo request, id 25024, seq 987, length 32
+20:14:49.339339 IP 134.122.43.1 > 220.242.158.72: ICMP echo reply, id 25024, seq 987, length 32
+20:14:49.339345 IP 220.242.158.72 > 134.122.43.1: ICMP echo request, id 25024, seq 988, length 32
+20:14:49.339350 IP 134.122.43.1 > 220.242.158.72: ICMP echo reply, id 25024, seq 988, length 32
+20:14:50.609763 IP 185.236.11.9.57003 > 134.122.43.1.35790: Flags [S], seq 1256268133, win 1024, length 0
+20:14:55.495968 IP 194.147.140.109.56272 > 134.122.43.1.47278: Flags [S], seq 3227709543, win 1024, length 0
+20:14:58.123703 IP 185.236.11.3.54585 > 134.122.43.1.4122: Flags [S], seq 3770784114, win 1024, length 0
+20:15:01.123038 IP scanner-01.ch1.censys-scanner.com.63524 > 134.122.43.1.ftps: Flags [S], seq 3458202486, win 1024, options [mss 1460], length 0
+20:15:03.355775 IP 2.57.122.23.46731 > 134.122.43.1.5984: Flags [S], seq 2584354650, win 1024, length 0
+20:15:09.125951 IP 129.204.203.218.40827 > 134.122.43.1.6650: Flags [S], seq 2749507012, win 1024, length 0
+20:15:19.976455 IP 2.57.122.23.46731 > 134.122.43.1.9000: Flags [S], seq 4212830517, win 1024, length 0
+20:15:22.177533 IP 194.147.140.27.44338 > 134.122.43.1.6809: Flags [S], seq 1536540770, win 1024, length 0
+20:15:27.698630 IP host-188-122-2-34.finemedia.pl.12591 > 134.122.43.1.37215: Flags [S], seq 2256153345, win 10807, options [mss 1440], length 0
+20:15:28.787599 IP n112119199146.netvigator.com.27421 > 134.122.43.1.5555: Flags [S], seq 2256153345, win 22535, length 0
+20:15:29.807325 IP 61.177.173.10.57713 > 134.122.43.1.ssh: Flags [S], seq 2196355937, win 29200, options [mss 1460,sackOK,TS val 137636395 ecr 0,nop,wscale 7], length 0
+20:15:29.807390 IP 134.122.43.1.ssh > 61.177.173.10.57713: Flags [S.], seq 3282932936, ack 2196355938, win 65160, options [mss 1460,sackOK,TS val 883471527 ecr 137636395,nop,wscale 7], length 0
+20:15:30.050309 IP 61.177.173.10.57713 > 134.122.43.1.ssh: Flags [.], ack 1, win 229, options [nop,nop,TS val 137636456 ecr 883471527], length 0
+20:15:30.050367 IP 61.177.173.10.57713 > 134.122.43.1.ssh: Flags [P.], seq 1:16, ack 1, win 229, options [nop,nop,TS val 137636456 ecr 883471527], length 15
+20:15:30.050393 IP 134.122.43.1.ssh > 61.177.173.10.57713: Flags [.], ack 16, win 509, options [nop,nop,TS val 883471770 ecr 137636456], length 0
+20:15:30.061262 IP 134.122.43.1.ssh > 61.177.173.10.57713: Flags [P.], seq 1:42, ack 16, win 509, options [nop,nop,TS val 883471781 ecr 137636456], length 41
+20:15:30.303638 IP 61.177.173.10.57713 > 134.122.43.1.ssh: Flags [.], ack 42, win 229, options [nop,nop,TS val 137636519 ecr 883471781], length 0
+20:15:30.303701 IP 134.122.43.1.ssh > 61.177.173.10.57713: Flags [P.], seq 42:1098, ack 16, win 509, options [nop,nop,TS val 883472023 ecr 137636519], length 1056
+20:15:30.303720 IP 61.177.173.10.57713 > 134.122.43.1.ssh: Flags [P.], seq 16:872, ack 42, win 229, options [nop,nop,TS val 137636520 ecr 883471781], length 856
+20:15:30.303740 IP 134.122.43.1.ssh > 61.177.173.10.57713: Flags [.], ack 872, win 503, options [nop,nop,TS val 883472023 ecr 137636520], length 0
+20:15:30.546626 IP 61.177.173.10.57713 > 134.122.43.1.ssh: Flags [P.], seq 872:952, ack 1098, win 245, options [nop,nop,TS val 137636580 ecr 883472023], length 80
+20:15:30.546685 IP 134.122.43.1.ssh > 61.177.173.10.57713: Flags [.], ack 952, win 503, options [nop,nop,TS val 883472266 ecr 137636580], length 0
+20:15:30.547738 IP 134.122.43.1.ssh > 61.177.173.10.57713: Flags [P.], seq 1098:1410, ack 952, win 503, options [nop,nop,TS val 883472267 ecr 137636580], length 312
+20:15:30.790790 IP 61.177.173.10.57713 > 134.122.43.1.ssh: Flags [P.], seq 952:968, ack 1410, win 262, options [nop,nop,TS val 137636641 ecr 883472267], length 16
+20:15:30.790847 IP 134.122.43.1.ssh > 61.177.173.10.57713: Flags [.], ack 968, win 503, options [nop,nop,TS val 883472510 ecr 137636641], length 0
+20:15:31.033271 IP 61.177.173.10.57713 > 134.122.43.1.ssh: Flags [P.], seq 968:1032, ack 1410, win 262, options [nop,nop,TS val 137636702 ecr 883472510], length 64
+20:15:31.033309 IP 134.122.43.1.ssh > 61.177.173.10.57713: Flags [.], ack 1032, win 503, options [nop,nop,TS val 883472753 ecr 137636702], length 0
+20:15:31.033432 IP 134.122.43.1.ssh > 61.177.173.10.57713: Flags [P.], seq 1410:1474, ack 1032, win 503, options [nop,nop,TS val 883472753 ecr 137636702], length 64
+20:15:31.275930 IP 61.177.173.10.57713 > 134.122.43.1.ssh: Flags [P.], seq 1032:1112, ack 1474, win 262, options [nop,nop,TS val 137636763 ecr 883472753], length 80
+20:15:31.275971 IP 134.122.43.1.ssh > 61.177.173.10.57713: Flags [.], ack 1112, win 503, options [nop,nop,TS val 883472996 ecr 137636763], length 0
+20:15:31.283268 IP 134.122.43.1.ssh > 61.177.173.10.57713: Flags [P.], seq 1474:1554, ack 1112, win 503, options [nop,nop,TS val 883473003 ecr 137636763], length 80
+20:15:31.340705 IP 194.147.140.109.56272 > 134.122.43.1.59911: Flags [S], seq 4089149884, win 1024, length 0
+20:15:31.525668 IP 61.177.173.10.57713 > 134.122.43.1.ssh: Flags [P.], seq 1112:1208, ack 1554, win 262, options [nop,nop,TS val 137636825 ecr 883473003], length 96
+20:15:31.566723 IP 134.122.43.1.ssh > 61.177.173.10.57713: Flags [.], ack 1208, win 503, options [nop,nop,TS val 883473286 ecr 137636825], length 0
+20:15:32.083723 IP 182.248.64.34.bc.googleusercontent.com.45805 > 134.122.43.1.tproxy: Flags [S], seq 0, win 4096, length 0

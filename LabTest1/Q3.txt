@@ -1,0 +1,12 @@
+$ ping wizardsofclean.ca
+
+Pinging wizardsofclean.ca [74.220.219.240] with 32 bytes of data:
+Reply from 74.220.219.240: bytes=32 time=89ms TTL=43
+Reply from 74.220.219.240: bytes=32 time=94ms TTL=43
+Reply from 74.220.219.240: bytes=32 time=206ms TTL=43
+Reply from 74.220.219.240: bytes=32 time=85ms TTL=43
+
+Ping statistics for 74.220.219.240:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 85ms, Maximum = 206ms, Average = 118ms
